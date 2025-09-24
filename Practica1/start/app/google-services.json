@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557377193281",
+    "project_id": "compose-firebase-codelab-e64db",
+    "storage_bucket": "compose-firebase-codelab-e64db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557377193281:android:002967169bf85162b44dc0",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsBOc733P8DFbb_4MF3ITLoUUz4pOZfHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
